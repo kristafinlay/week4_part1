@@ -1,0 +1,11 @@
+---
+title: 'Week 4 Part 1: t-tests & conf In'
+author: "Krista Finlay"
+date: "10/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
